@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time: MyString
+  seats: 1
+  customer: one
+  location: one
+
+two:
+  time: MyString
+  seats: 1
+  customer: two
+  location: two
